@@ -1,7 +1,3 @@
-from operator import le
-import re
-
-
 tc_no = []
 real_tc_no = []
 firstTwoDigits = input("Enter the first two digits:")
